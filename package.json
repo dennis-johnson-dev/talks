@@ -1,0 +1,19 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "description": "static site builder for presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songawee/talks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songawee/talks/issues"
+  },
+  "homepage": "https://github.com/songawee/talks#readme"
+}

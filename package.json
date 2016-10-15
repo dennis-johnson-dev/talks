@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/songawee/talks/issues"
   },
-  "homepage": "https://github.com/songawee/talks#readme"
+  "homepage": "https://github.com/songawee/talks#readme",
+  "dependencies": {
+    "reveal.js": "^3.3.0"
+  }
 }
